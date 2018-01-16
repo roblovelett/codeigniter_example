@@ -4,6 +4,7 @@ Init. setup
 
 Download wampserver - http://wampserver.com
 Setup wampserver to use https - http://lmhproductions.com/31/how-to-setup-ssl-on-wamp/
+Run example.sql to generate database.
 Change relevant information in 'config/config.php' and 'config/database.php'
 
 This project is setup to contain the following:
